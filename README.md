@@ -1,6 +1,6 @@
-# PizzaHut Database Analysis
+# Pizza Database Analysis
 
-This project involves creating a database for PizzaHut, populating it with schema and data, and performing SQL queries for analysis. The project focuses on calculating metrics like total revenue, top-selling pizzas, and order patterns.
+This project involves creating a database for Pizza, populating it with schema and data, and performing SQL queries for analysis. The project focuses on calculating metrics like total revenue, top-selling pizzas, and order patterns.
 
 ## Database Schema
 
